@@ -45,3 +45,7 @@ This one threw me for a while. I was on the right track using division to find o
 ## Day 11
 
 More and more fantasy computer! This one was neat, but I got hung up far too long on the second part for not realizing that I was specifying the starting square in two separate spots.
+
+# Day 12
+
+Revenge of basic algebra. Harder than I wish it were :(
