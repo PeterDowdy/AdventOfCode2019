@@ -49,3 +49,7 @@ More and more fantasy computer! This one was neat, but I got hung up far too lon
 # Day 12
 
 Revenge of basic algebra. Harder than I wish it were :(
+
+# Day 13
+
+OK THIS ONE JUST AWESOME
