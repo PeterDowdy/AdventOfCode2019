@@ -61,3 +61,7 @@ This was really fiddly for me and went very poorly :(
 # Day 15
 
 That intcode computer is still going strong. This time I had to write an exploration algorithm, which ended up just brute-forcing a route to the nearest unknown. Not A*, but A* wasn't needed.
+
+# Day 16
+
+This solution only works for very particular constraints and isn't a general problem solver. It makes it orders of magnitude more efficient, though.
